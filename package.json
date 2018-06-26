@@ -9,6 +9,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "chromedriver": "^2.33.2"
+    "chromedriver": "^2.40.0"
   }
 }
